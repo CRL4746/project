@@ -1,1 +1,3 @@
-git is a version contro; system
+git is a version control system
+
+meng san guo
